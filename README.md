@@ -17,3 +17,10 @@ Just follow the messages:
 - Enter key (This key must be the using key while the encryption process)
 - Enter 3 for exit
 #### If you are in password_from_file.py also you have to enter file names.
+## Example
+Text: Hi! This is an example for https://github.com/sonmezarda/Python-Basic-Encrypt-Program-With-Keys project
+Encrypted Text: C+j0BÇ2-AKqXrpCtıüü?54Bz,0CB7Çı2Lşmty?İüAzoÇĞbkjjA!Lqüuwy-2zı:hD3Gqoh-5D2ÇCşnÇ2m?öyxt?6öjy!-yrnDqq l0t;
+Key: 1412692845
+If you enter the message and the key, you can take the decrypted text.
+## Notes
+- If you need an non-added character you can simply add it to the characters array is enough
